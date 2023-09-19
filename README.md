@@ -1,5 +1,6 @@
 # Resume
 ## PLACE
-bangalore
+haldwani
 ## experience 
 2years
+
