@@ -1,6 +1,10 @@
 # Resume
 ## PLACE
-haldwani
+banga
 ## experience 
 2years
+## education
+- nirmala
+- dayananda sagar
+- 
 
